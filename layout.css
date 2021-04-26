@@ -1,0 +1,22 @@
+.layout__item--75-percent { width: 75%; }
+
+.layout__item--25-percent { width: 25%; }
+
+
+.layout__item--floated-left  { float: left; } /* [2] */
+
+.layout__item--floated-right { float: right; }/* [2] */
+
+
+
+
+
+/*------------------------------------*\
+  #HELPEREK
+\*------------------------------------*/
+
+.clearfix:after {
+  content:  "";
+  display:  table;
+  clear:    both;
+}
